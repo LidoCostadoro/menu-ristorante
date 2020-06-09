@@ -1,0 +1,4 @@
+Acqua in vetro|2.50|75 cl
+CocaCola<br>Fanta<br>Sprite|2.50|33 cl
+Nastro Azzurro<br>Heineken<br>Peroni|3.50|33 cl
+Corona<br>Ceres<br>Tennent's|5|33 cl

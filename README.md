@@ -29,3 +29,4 @@
 > ESEMPIO: <br>
 > |Pasta e fagioli|5|pasta con fagioli Borlotti <br>
 > **in tal caso il piatto verrà ignorato e non sarà visualizzabile nel sito, ma rimane disponibile nel file**
+- **Lasciare sempre alla fine di ogni file una riga di "a capo", riga vuota.**

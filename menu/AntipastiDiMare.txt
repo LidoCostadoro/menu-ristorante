@@ -2,5 +2,3 @@ Sautè di Cozze|10|cozze, aglio, prezzemolo e olio E.V.O.
 Sautè di Cozze e Vongole|12|cozze, vongole, aglio, prezzemolo e olio E.V.O.
 Insalata di Mare|12|polpo marocco, calamari, seppie, cozze, vongole e olio E.V.O.
 Insalata di Polpo|12|polpo marocco, prezzemolo, olio E.V.O.
-test|100|test
-

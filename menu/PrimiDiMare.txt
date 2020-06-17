@@ -4,5 +4,5 @@ Linguine all'Astice|18|pasta DeCecco, astice fresco, pomodorino, prezzemolo e ol
 |Tagliatelle allo Spada|15|pasta fresca, pesce spada fresco, prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti Cozze e Vongole|13|gnocchetti di pasta fresca, cozze, vongole veraci, prezzemolo e olio E.V.O
-Gnocchetti ai frutti di mare|12|gnocchetti,cozze vongole veraci calamaretti camberetti ciliegino prezzemolo olio E.V.O.
+|Gnocchetti ai frutti di mare|12|gnocchetti,cozze vongole veraci calamaretti camberetti ciliegino prezzemolo olio E.V.O.
 |Risotto alla pescatora|11|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.

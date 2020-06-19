@@ -1,6 +1,6 @@
 Fragole|4|
-Ananas|4.00|
-Melone|4.00|
-Macedonia|4.00|frutta di stagione
+Ananas|4|
+Melone|4|
+Macedonia|4|frutta di stagione
 |Anguria|4|
 Tagliata di frutta|7|ananas, melone, anguria e frutta di stagione tagliati in pezzettoni

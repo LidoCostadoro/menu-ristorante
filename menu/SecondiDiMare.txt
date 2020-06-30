@@ -1,9 +1,9 @@
 Frittura calamari e gamberi|15|gamberi rosa siciliani**, calamari del mediterraneo**, olio di arachidi
-|Calamaro arrosto|14|calamaro del mediterraneo**, erbe aromatiche e con olio E.V.O.
+Calamaro arrosto|14|calamaro del mediterraneo**, erbe aromatiche e con olio E.V.O.
 Grigliata mista|18|calamaro mediterraneo**, gamberoni argentini**, trancio di tonno fresco oppure pesce spada fresco e olio E.V.O.
 Grigliata Imperiale|22|gambero rosso di sicilia**,  mazzancolle**,scampi**
 Trancio di tonno scottato con cipolla di tropea|16|trancio di tonno rosso fresco, cipolla di Tropea, cicoria saltata, glassa di aceto balsamico e olio E.V.O.
-Trancio di Spada|16|trancio di Spada fresco, erbe aromatiche e olio E.V.O.
+|Trancio di Spada|16|trancio di Spada fresco, erbe aromatiche e olio E.V.O.
 |Alici fritte |9|
 |Frittura di paranza |11|
 Zuppa di pesce |25| calamaro moscardini seppia mazzancolle gambero rosa scampi gallinella scorfano ran pescatrice cozze vongole 

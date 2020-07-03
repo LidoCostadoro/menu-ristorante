@@ -4,10 +4,11 @@
 |Tagliatelle allo Spada|15|pasta fresca, pesce spada fresco, prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |11|gnocchetti di patate , cozze, vongole veraci,gamberetti  prezzemolo e olio E.V.O
-|Gnocchetti ai frutti di mare|12|gnocchetti,cozze vongole veraci calamaretti camberetti ciliegino prezzemolo olio E.V.O.
+|Gnocchetti ai frutti di mare|12|gnocchetti,cozze vongole veraci calamaretti gamberetti ciliegino prezzemolo olio E.V.O.
 Risotto alla pescatora|11|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri alla nostromo |14|pasta Rummo , cozze, vongole, melanzane fritte, pomodorino, olio E.V.O., prezzemolo
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco scampi pomodorino giallo aglio olio sale prezzemolo
 Fusilli al ferretto con gamberi rossi Sicilia |15| pasta fresca gamberi rossi Sicilia pomodorino olio E.V.O. aglio prezzemolo
 Gnocchetti cozze e gamberetti |13| gnocchetti di patate cozze gamberetti pomodorino aglio olio E.V.O. prezzemolo
+Fusilli artigianali allo scoglio |11| fusilli artigianali al ferretto cozze vongole calamari moscardini seppie olio E.V.O. prezzemolo

@@ -11,5 +11,5 @@ Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco scampi pomodorino giallo aglio olio sale prezzemolo
 |Fusilli artigianali allo scoglio |13| pasta fresca cozze vongole gamberi seppie calamri moscardini  pomodorino olio E.V.O. aglio prezzemolo
 |Gnocchetti cozze e gamberetti |13| gnocchetti di patate cozze gamberetti pomodorino aglio olio E.V.O. prezzemolo
-Fusilli artigianali allo scoglio |12| fusilli artigianali al ferretto cozze vongole calamari moscardini seppie olio E.V.O. prezzemolo
-Gnocchetti rosa vongole e gamberi |15| gnocchetti di patata viola vongole veraci gamberi pomodorino giallo olio E.V.O. prezzemolo
+Fusilli artigianali allo scoglio |15| fusilli artigianali al ferretto cozze vongole calamari moscardini seppie olio E.V.O. prezzemolo
+|Gnocchetti rosa vongole e gamberi |15| gnocchetti di patata viola vongole veraci gamberi pomodorino giallo olio E.V.O. prezzemolo

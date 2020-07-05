@@ -1,4 +1,4 @@
-Fragole|4|
+|Fragole|4|
 Ananas|4|
 Melone|4|
 Macedonia|4|frutta di stagione

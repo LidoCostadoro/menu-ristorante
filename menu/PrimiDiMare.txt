@@ -5,7 +5,7 @@ Tonnarelli  all'Astice|18|linguine de Cecco  , astice fresco, pomodorino, prezze
 Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |11|gnocchetti di patate , cozze, vongole veraci,gamberetti  prezzemolo e olio E.V.O
 |Gnocchetti ai frutti di mare|12|gnocchetti,cozze vongole veraci calamaretti gamberetti ciliegino prezzemolo olio E.V.O.
-|Risotto alla pescatora|11|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
+Risotto alla pescatora|11|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
 Paccheri alla nostromo |14|pasta Rummo , cozze, vongole, melanzane fritte, pomodorino, olio E.V.O., prezzemolo
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco, scampi, pomodorino giallo, aglio ,olio, sale, prezzemolo
@@ -13,4 +13,4 @@ Paccheri alla nostromo |14|pasta Rummo , cozze, vongole, melanzane fritte, pomod
 |Gnocchetti cozze e gamberetti |13| gnocchetti di patate, cozze, gamberetti, pomodorino, aglio ,olio E.V.O., prezzemolo
 |Fusilli artigianali allo scoglio |15| fusilli artigianali al ferretto ,cozze, vongole, calamari, moscardini, seppie ,olio E.V.O., prezzemolo
 |Gnocchetti rosa vongole e gamberi |15| gnocchetti di patata viola ,vongole veraci, gamberi ,pomodorino giallo, olio E.V.O., prezzemolo
-Gnocchetti di rapa rossa vongole gamberi e limone |14| gnocchetti di rapa rossa, vongole veraci, gamberi, limone,olio E.V.O. ,prezzemolo 
+|Gnocchetti di rapa rossa vongole gamberi e limone |14| gnocchetti di rapa rossa, vongole veraci, gamberi, limone,olio E.V.O. ,prezzemolo 

@@ -1,6 +1,6 @@
 |Paccheri della Casa|15|pasta Rummo, gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo olio E.V.O.
-Tonnarelli  all'Astice|18|linguine de Cecco  , astice fresco, pomodorino, prezzemolo e olio E.V.O.
+|Tonnarelli  all'Astice|18|linguine de Cecco  , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle allo Spada|15|pasta fresca, pesce spada fresco, prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |11|gnocchetti di patate , cozze, vongole veraci,gamberetti  prezzemolo e olio E.V.O

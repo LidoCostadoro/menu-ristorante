@@ -3,5 +3,5 @@ Siciliana|8.50|insalata verde, pomodori, prosciutto cotto, provola, mozzarella d
 Vegetariana|8.50|insalata verde, carote, pomodori, cetrioli, peperoni, olive di Gaeta e scaglie di grana Padano
 Greca|8.50|insalata verde, pomodori, cipolla, peperoni, cetrioli, feta e olive
 Pollo|8.50|insalata verde, carote, yogurt, senape e straccetti di pollo
-Mare|8.50|insalata verde, calamari del mediterraneo, seppie e cozze
+
 Costadoro|8.50|insalata verde, pomodori, tonno e mozzarella di Bufala D.O.P.

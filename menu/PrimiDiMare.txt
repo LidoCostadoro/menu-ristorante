@@ -20,4 +20,4 @@ Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Calamarata allo scoglio|15| calamarata pasta fresca , cozze , vongole, calamaretti, gamberetti, olio E.V.O., prezzemolo
 |Linguine agli scampi |15| linguine De Cecco, scampi, pomodorino, olio E.V.O. , prezzemolo
 |Calamarata al ragù di coccio|15| Calamarata pasta fresca di semola , coccio, pomodorino ciliegino, olio E.V.O., prezzemolo
-|Paccheri con ricciola |15| Paccheri Rummo, ricciola, pomoodorino giallo, alloro, cipolla, aglio, pinoli tostati, prezzemolo, basilico, olio E.V.O.
+Paccheri con ricciola |15| Paccheri Rummo, ricciola, pomoodorino giallo, alloro, cipolla, aglio, pinoli tostati, prezzemolo, basilico, olio E.V.O.

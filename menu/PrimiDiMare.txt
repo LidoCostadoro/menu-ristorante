@@ -1,6 +1,6 @@
 |Paccheri della Casa|15|pasta Rummo, gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo olio E.V.O.
-|Tonnarelli  all'Astice|18|tonnarelli  , astice fresco, pomodorino, prezzemolo e olio E.V.O.
+Linguine all'Astice|18|Linguine De  Cecco  , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle allo Spada|15|pasta fresca, pesce spada fresco, prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |12|gnocchetti di patate , cozze, vongole veraci, prezzemolo e olio E.V.O
@@ -18,5 +18,6 @@ Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Tagliatelle dello chef |16| tagliatelle di pasta fresca, mazzancolle Sicilia, pesto, pomodorino giallo , olio E.V.O. , prezzemolo
 |Calamarata dello chef |15| calamarata pasta fresca, vongole veraci, gamberetti, rucola, limone, olio E.V.O.
 |Calamarata allo scoglio|15| calamarata pasta fresca , cozze , vongole, calamaretti, gamberetti, olio E.V.O., prezzemolo
-Linguine agli scampi |15| linguine De Cecco, scampi, pomodorino, olio E.V.O. , prezzemolo
-Calamarata al ragù di coccio|15| Calamarata pasta fresca di semola , coccio, pomodorino ciliegino, olio E.V.O., prezzemolo
+|Linguine agli scampi |15| linguine De Cecco, scampi, pomodorino, olio E.V.O. , prezzemolo
+|Calamarata al ragù di coccio|15| Calamarata pasta fresca di semola , coccio, pomodorino ciliegino, olio E.V.O., prezzemolo
+|Paccheri con ricciola |15| Paccheri Rummo, ricciola, pomoodorino giallo, alloro, cipolla, aglio, pinoli tostati, prezzemolo, basilico, olio E.V.O.

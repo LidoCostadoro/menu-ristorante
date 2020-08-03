@@ -4,7 +4,7 @@ Linguine  all'Astice|18|Linguine De  Cecco  , astice fresco, pomodorino, prezzem
 |Tagliatelle allo Spada|15|pasta fresca, pesce spada fresco, prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |12|gnocchetti di patate , cozze, vongole veraci, prezzemolo e olio E.V.O
-Paccheri ai frutti di mare|13|bavette ,cozze, vongole veraci , gamberetti, ciliegino, prezzemolo, olio E.V.O.
+Paccheri ai frutti di mare|13|Paccheri ,cozze, vongole veraci , gamberetti, ciliegino, prezzemolo, olio E.V.O.
 |Risotto alla pescatora|12|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri alla nostromo |14|pasta Rummo , cozze, vongole, melanzane fritte, pomodorino, olio E.V.O., prezzemolo
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
@@ -21,4 +21,4 @@ Paccheri ai frutti di mare|13|bavette ,cozze, vongole veraci , gamberetti, cilie
 |Linguine agli scampi |15| linguine De Cecco, scampi, pomodorino, olio E.V.O. , prezzemolo
 |Calamarata al ragù di coccio|15| Calamarata pasta fresca di semola , coccio, pomodorino ciliegino, olio E.V.O., prezzemolo
 |Calamarata  con ricciola |15| Paccheri Rummo, ricciola, pomoodorino giallo, alloro, cipolla, aglio, pinoli tostati, prezzemolo, basilico, olio E.V.O.
-Bavette al nero di seppia |16| Spaghetti De Cecco, seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo
+Bavette al nero di seppia |16| Bavette , seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo

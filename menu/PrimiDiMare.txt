@@ -1,16 +1,16 @@
 |Paccheri della Casa|15|pasta Rummo, gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo, olio E.V.O.
-Tonnarelli  all'Astice|18|Linguine De  Cecco  , astice fresco, pomodorino, prezzemolo e olio E.V.O.
+Linguine  all'Astice|18|Linguine De  Cecco  , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle allo Spada|15|pasta fresca, pesce spada fresco, prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |12|gnocchetti di patate , cozze, vongole veraci, prezzemolo e olio E.V.O
-|Gnocchetti ai frutti di mare|12|gnocchetti,cozze, vongole veraci ,calamaretti, gamberetti, ciliegino, prezzemolo, olio E.V.O.
+Bavette ai frutti di mare|13|bavette ,cozze, vongole veraci , gamberetti, ciliegino, prezzemolo, olio E.V.O.
 |Risotto alla pescatora|12|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri alla nostromo |14|pasta Rummo , cozze, vongole, melanzane fritte, pomodorino, olio E.V.O., prezzemolo
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco, scampi, pomodorino giallo, aglio ,olio, sale, prezzemol
 |Gnocchetti cozze e gamberetti |13| gnocchetti di patate, cozze, gamberetti, pomodorino, aglio ,olio E.V.O., prezzemolo
-Fusilli artigianali allo scoglio |16| fusilli artigianali al ferretto ,cozze, vongole, calamari, moscardini, seppie ,olio E.V.O., prezzemolo
+|Fusilli artigianali allo scoglio |16| fusilli artigianali al ferretto ,cozze, vongole, calamari, moscardini, seppie ,olio E.V.O., prezzemolo
 |Gnocchetti rosa vongole e gamberi |15| gnocchetti di patata viola ,vongole veraci, gamberi ,pomodorino giallo, olio E.V.O., prezzemolo
 |Gnocchetti di rapa rossa vongole gamberi e limone |14| gnocchetti di rapa rossa, vongole veraci, gamberi, limone,olio E.V.O. ,prezzemolo 
 |Paccheri con moscardini |14| paccheri Rummo, moscardini, pomodoro, olio E.V.O., sale , prezzemolo
@@ -21,3 +21,4 @@ Fusilli artigianali allo scoglio |16| fusilli artigianali al ferretto ,cozze, vo
 |Linguine agli scampi |15| linguine De Cecco, scampi, pomodorino, olio E.V.O. , prezzemolo
 |Calamarata al ragù di coccio|15| Calamarata pasta fresca di semola , coccio, pomodorino ciliegino, olio E.V.O., prezzemolo
 |Calamarata  con ricciola |15| Paccheri Rummo, ricciola, pomoodorino giallo, alloro, cipolla, aglio, pinoli tostati, prezzemolo, basilico, olio E.V.O.
+Spaghetti al nero di seppia |16| Spaghetti De Cecco, seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo

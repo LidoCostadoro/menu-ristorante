@@ -5,7 +5,7 @@ Tonnarelli  all'Astice|18|Tonnarello fresco   , astice fresco, pomodorino, prezz
 Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |12|gnocchetti di patate , cozze, vongole veraci, prezzemolo e olio E.V.O
 |Paccheri ai frutti di mare|13|Paccheri ,cozze, vongole veraci , gamberetti, ciliegino, prezzemolo, olio E.V.O.
-Risotto alla pescatora|13|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
+|Risotto alla pescatora|13|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri alla nostromo |14|pasta Rummo , cozze, vongole, melanzane fritte, pomodorino, olio E.V.O., prezzemolo
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco, scampi, pomodorino giallo, aglio ,olio, sale, prezzemol
@@ -24,3 +24,4 @@ Risotto alla pescatora|13|riso carnaroli, calamari, seppie, polpo, gamberi, cozz
 |Bavette al nero di seppia |16| Bavette , seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo
 |Paccheri allo scoglio |16| Paccheri Rummo, cozze, vongole, gamberetti, seppie, olio E.V.O., prezzemolo
 |Spaghetti alla sperlongana |10| Spaghetti De Cecco, alici, olive , pangrattato tostato, olio E.V.O., prezzemolo
+Paccheri mare e monti |16| Pacchei, frutti di mare, gamberetti, funghi misti , olio E.V.O., aglio, prezzemolo

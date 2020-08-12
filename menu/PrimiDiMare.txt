@@ -1,12 +1,12 @@
 |Paccheri della Casa|15|pasta Rummo, gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo, olio E.V.O.
 |Tonnarelli  all'Astice|18|Tonnarello fresco   , astice fresco, pomodorino, prezzemolo e olio E.V.O.
-|Tagliatelle allo Spada|15|pasta fresca, pesce spada fresco, prezzemolo, olio E.V.O.
+|Tagliatelle all'uovo con pesce spada|15|pasta fresca, pesce spada , pinoli tostati ,pomodorino giallo,prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |12|gnocchetti di patate , cozze, vongole veraci, prezzemolo e olio E.V.O
 |Paccheri ai frutti di mare|13|Paccheri ,cozze, vongole veraci , gamberetti, ciliegino, prezzemolo, olio E.V.O.
 |Risotto alla pescatora|13|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
-|Paccheri alla nostromo |14|pasta Rummo , cozze, vongole, melanzane fritte, pomodorino, olio E.V.O., prezzemolo
+Paccheri alla nostromo |14|pasta Rummo , cozze, vongole, melanzane fritte, pomodorino, olio E.V.O., prezzemolo
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco, scampi, pomodorino giallo, aglio ,olio, sale, prezzemol
 |Gnocchetti cozze e gamberetti |13| gnocchetti di patate, cozze, gamberetti, pomodorino, aglio ,olio E.V.O., prezzemolo
@@ -25,5 +25,5 @@ Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Paccheri allo scoglio |16| Paccheri Rummo, cozze, vongole, gamberetti, seppie, olio E.V.O., prezzemolo
 |Spaghetti alla sperlongana |10| Spaghetti De Cecco, alici, olive , pangrattato tostato, olio E.V.O., prezzemolo
 |Paccheri mare e monti |15| Pacchei, frutti di mare, gamberetti, funghi misti , olio E.V.O., aglio, prezzemolo
-Spaghettoni all' uovo al ragù di rana pescatrice |15| spaghettoni , rana pescatrice, pomodorino fresco , olio E.V.O., prezzemolo
-Paccheri al ragù di gallinella di mare e scorfano |15| paccheri, gallinella, scorfano, salsa di pomodoro, olio E.V.O., prezzemolo
+|Spaghettoni all' uovo al ragù di rana pescatrice |15| spaghettoni , rana pescatrice, pomodorino fresco , olio E.V.O., prezzemolo
+|Paccheri al ragù di gallinella di mare e scorfano |15| paccheri, gallinella, scorfano, salsa di pomodoro, olio E.V.O., prezzemolo

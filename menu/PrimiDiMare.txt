@@ -19,11 +19,11 @@ Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Calamarata dello chef |15| calamarata pasta fresca, vongole veraci, gamberetti, rucola, limone, olio E.V.O.
 |Calamarata allo scoglio|15| calamarata pasta fresca , cozze , vongole, calamaretti, gamberetti, olio E.V.O., prezzemolo
 |Linguine agli scampi |15| linguine De Cecco, scampi, pomodorino, olio E.V.O. , prezzemolo
-Calamarata al ragù di ricciola |16| Calamarata pasta fresca di semola , ricciola, pomodorino ciliegino, olio E.V.O., prezzemolo
+|Calamarata al ragù di ricciola |16| Calamarata pasta fresca di semola , ricciola, pomodorino ciliegino, olio E.V.O., prezzemolo
 |Calamarata  con ricciola |15| Paccheri Rummo, ricciola, pomoodorino giallo, alloro, cipolla, aglio, pinoli tostati, prezzemolo, basilico, olio E.V.O.
 |Bavette al nero di seppia |16| Bavette , seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo
 |Paccheri allo scoglio |16| Paccheri Rummo, cozze, vongole, gamberetti, seppie, olio E.V.O., prezzemolo
-|Spaghetti alla sperlongana |10| Spaghetti De Cecco, alici, olive , pangrattato tostato, olio E.V.O., prezzemolo
+Paccheri  alla sperlongana |13| Paccheri , alici, olive , olio E.V.O., prezzemolo
 |Paccheri mare e monti |15| Pacchei, frutti di mare, gamberetti, funghi misti , olio E.V.O., aglio, prezzemolo
 |Spaghettoni all' uovo al ragù di rana pescatrice |15| spaghettoni , rana pescatrice, pomodorino fresco , olio E.V.O., prezzemolo
 |Paccheri al ragù di gallinella di mare e scorfano |15| paccheri, gallinella, scorfano, salsa di pomodoro, olio E.V.O., prezzemolo

@@ -4,4 +4,4 @@ Penne al pomodoro|7|pasta di grano duro, salsa al pomodoro,basilico e olio E.V.O
 |Cavatelli pesto e mascarpone|8|pasta fresca di semola, pesto di basilico e mascarpone
 Gnocchi al pomodoro|7|gnocchi di semola passata di pomodoro olio e.v.o. sale basilico
 |Lasagna alla bolognese |10| sfoglia di pasta , carne macinata, passata di pomodoro, besciamella, parmigiano, olio E.V.O., basilico
-Ravioloni ricotta e spinaci in salsa rosa |11| ravioli ripieni, ricotta, spinaci, pomodorino fresco, besciamella
+|Ravioloni ricotta e spinaci in salsa rosa |11| ravioli ripieni, ricotta, spinaci, pomodorino fresco, besciamella

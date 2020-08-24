@@ -10,16 +10,16 @@ Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco, scampi, pomodorino giallo, aglio ,olio, sale, prezzemol
 |Gnocchetti cozze e gamberetti |13| gnocchetti di patate, cozze, gamberetti, pomodorino, aglio ,olio E.V.O., prezzemolo
-|Fusilli  allo scoglio |16| fusilli ,cozze, vongole, calamari, gamberi, seppie ,olio E.V.O., prezzemolo
+|Fusilli  allo scoglio|16| fusilli ,cozze, vongole, calamari, gamberi, seppie ,olio E.V.O., prezzemolo
 |Gnocchetti rosa vongole e gamberi |15| gnocchetti di patata viola ,vongole veraci, gamberi ,pomodorino giallo, olio E.V.O., prezzemolo
 |Gnocchetti di rapa rossa vongole gamberi e limone |14| gnocchetti di rapa rossa, vongole veraci, gamberi, limone,olio E.V.O. ,prezzemolo 
 |Paccheri con moscardini |14| paccheri Rummo, moscardini, pomodoro, olio E.V.O., sale , prezzemolo
-Linguine  agli scampi |16|Linguine De Cecco, , scampi, pomodorino giallo, aglio, olio , basilico , prezzemolo
+|Linguine  agli scampi |16|Linguine De Cecco, , scampi, pomodorino giallo, aglio, olio , basilico , prezzemolo
 |Tagliatelle dello chef |16| tagliatelle di pasta fresca, mazzancolle Sicilia, pesto, pomodorino giallo , olio E.V.O. , prezzemolo
 |Calamarata dello chef |15| calamarata pasta fresca, vongole veraci, gamberetti, rucola, limone, olio E.V.O.
 |Calamarata allo scoglio|15| calamarata pasta fresca , cozze , vongole, calamaretti, gamberetti, olio E.V.O., prezzemolo
 |Linguine agli scampi |15| linguine De Cecco, scampi, pomodorino, olio E.V.O. , prezzemolo
-|Paccheri al ragù di coccio|15| Paccheri  , coccio, pomodorino ciliegino, olio E.V.O., prezzemolo
+Fusilli al ragù di coccio|15| Fusilli   , coccio, pomodorino ciliegino, olio E.V.O., prezzemolo
 |Calamarata  con ricciola |15| Paccheri Rummo, ricciola, pomoodorino giallo, alloro, cipolla, aglio, pinoli tostati, prezzemolo, basilico, olio E.V.O.
 |Bavette al nero di seppia |16| Bavette , seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo
 |Paccheri allo scoglio |16| Paccheri Rummo, cozze, vongole, gamberetti, seppie, olio E.V.O., prezzemolo
@@ -27,4 +27,4 @@ Linguine  agli scampi |16|Linguine De Cecco, , scampi, pomodorino giallo, aglio,
 |Paccheri mare e monti |15| Pacchei, frutti di mare, gamberetti, funghi misti , olio E.V.O., aglio, prezzemolo
 |Spaghettoni all' uovo al ragù di rana pescatrice |15| spaghettoni , rana pescatrice, pomodorino fresco , olio E.V.O., prezzemolo
 |Paccheri al ragù di gallinella di mare e scorfano |15| paccheri, gallinella, scorfano, salsa di pomodoro, olio E.V.O., prezzemolo
-Paccheri ai gamberoni rossi |16| Paccheri Rummo, gamberoni rossi Sicilia , olio E.V.O. , prezzemolo
+Calamarata  ai gamberoni rossi di Sicilia  |16|Calamarata pasta fresca, gamberoni rossi Sicilia , olio E.V.O. , prezzemolo

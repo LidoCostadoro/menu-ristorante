@@ -3,7 +3,7 @@
 Tonnarelli  all'Astice|18| Tonnarelli pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle all'uovo con pesce spada|16|pasta fresca, pesce spada , pinoli tostati ,pomodorino giallo,prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
-Gnocchetti al profumo di mare |16|gnocchetti di patate , cozze, vongole veraci,gamberetti, calamari, seppie ,pomodorini, prezzemolo e olio E.V.O
+|Gnocchetti al profumo di mare |16|gnocchetti di patate , cozze, vongole veraci,gamberetti, calamari, seppie ,pomodorini, prezzemolo e olio E.V.O
 |Paccheri ai frutti di mare|13|Paccheri ,cozze, vongole veraci , gamberetti, ciliegino, prezzemolo, olio E.V.O.
 |Risotto alla pescatora|13|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
 |Calamarata  alla nostromo |15|calamarata , cozze, vongole, melanzane fritte, pomodorino, olio E.V.O., prezzemolo
@@ -24,8 +24,8 @@ Gnocchetti al profumo di mare |16|gnocchetti di patate , cozze, vongole veraci,g
 |Bavette al nero di seppia |16| Bavette , seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo
 |Paccheri allo scoglio |16| Paccheri Rummo, cozze, vongole, gamberetti, seppie, olio E.V.O., prezzemolo
 |Paccheri  alla sperlongana |13| Paccheri , alici, olive , olio E.V.O., prezzemolo
-|Gnocchetti mare e monti |16| Gnocchetti di patate , frutti di mare, gamberetti, funghi misti , olio E.V.O., aglio, prezzemolo
-|Spaghettoni all' uovo al ragù di rana pescatrice |15| spaghettoni , rana pescatrice, pomodorino fresco , olio E.V.O., prezzemolo
+|Gnocchetti mare e monti |16| Gnocchetti di patate , frutti di mare, gamberetti, funghi misti , olio E.V.O., aglio, prezzemolo 
+Fusilli artigianali con rana pescatrice |16|Fusiili artigianali, rana pescatrice, pomodorino fresco , olio E.V.O., prezzemolo
 |Paccheri al ragù di gallinella di mare e scorfano |15| paccheri, gallinella, scorfano, salsa di pomodoro, olio E.V.O., prezzemolo
 |Calamarata  ai gamberoni rossi di Sicilia  |16|Calamarata pasta fresca, gamberoni rossi Sicilia , olio E.V.O. , prezzemolo
-Zuppa di pesce |28| rana pescatrice, coccio, scorfano,polipetti, seppie, calamari, cozze, vongole, mazzancolle, gamberoni, scampi, gamberi bianchi
+Zuppa di pesce |28| rana pescatrice, coccio, scorfano , polipetti, seppie, calamari, cozze, vongole, mazzancolle, gamberoni, scampi, gamberi bianchi

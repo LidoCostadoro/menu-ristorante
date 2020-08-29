@@ -2,7 +2,7 @@ Tiramisu'|5|
 Panna cotta |4|
 Cheesecake |5|
 Baba'|4| semplice o crema 
-Sorbetto al limone |3|
+|Sorbetto al limone |3|
 Cannolo siciliano |4|
 Cassatina siciliana |4|
 Torta Caprese |4|

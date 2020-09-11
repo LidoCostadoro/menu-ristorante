@@ -4,6 +4,6 @@ Panna cotta |4|
 Baba'|4| semplice o crema 
 Sorbetto al limone |3|
 Cannolo siciliano |4|
-Cassatina siciliana |4|
+|Cassatina siciliana |4|
 |Torta Caprese |4|
 |Torta della nonna |4|

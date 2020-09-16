@@ -1,4 +1,4 @@
-|Paccheri della Casa|15|pasta Rummo, gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
+Calamarata vongole, gamberetti,zucchine |16|Calamarata , gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo, olio E.V.O.
 |Tonnarelli  all'Astice|18| Tonnarelli pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle all'uovo con pesce spada|16|pasta fresca, pesce spada , pinoli tostati ,pomodorino giallo,prezzemolo, olio E.V.O.
@@ -24,7 +24,7 @@ Tagliatelle  agli scampi |16| Tagliatelle all'uovo , scampi, datterino arancione
 |Bavette al nero di seppia |16| Bavette , seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo
 |Paccheri allo scoglio |16| Paccheri Rummo, cozze, vongole, gamberetti, seppie, olio E.V.O., prezzemolo
 |Paccheri  alla sperlongana |13| Paccheri , alici, olive , olio E.V.O., prezzemolo
-Calamarata mare e monti |16| Calamarata , cozze,vongole gamberetti, funghi porcini , pomoodorino giallo e rosso, olio E.V.O., aglio, prezzemolo 
+|Calamarata mare e monti |16| Calamarata , cozze,vongole gamberetti, funghi porcini , pomoodorino giallo e rosso, olio E.V.O., aglio, prezzemolo 
 |Fusilli artigianali con rana pescatrice |15|Fusiili artigianali, rana pescatrice, pomodorino fresco , olio E.V.O., prezzemolo
 |Paccheri al ragù di gallinella di mare e scorfano |15| paccheri, gallinella, scorfano, salsa di pomodoro, olio E.V.O., prezzemolo
 |Calamarata  ai gamberoni rossi di Sicilia  |16|Calamarata pasta fresca, gamberoni rossi Sicilia , olio E.V.O. , prezzemolo

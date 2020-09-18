@@ -1,6 +1,6 @@
 Calamarata vongole, gamberetti,zucchine |16|Calamarata , gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo, olio E.V.O.
-|Tonnarelli  all'Astice|18| Tonnarelli pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
+Tonnarelli  all'Astice|18| Tonnarelli pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle all'uovo con pesce spada|16|pasta fresca, pesce spada , pinoli tostati ,pomodorino giallo,prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |16|gnocchetti di patate , cozze, vongole veraci,gamberetti, calamari, seppie ,pomodorini, prezzemolo e olio E.V.O
@@ -29,4 +29,4 @@ Tagliatelle  agli scampi |16| Tagliatelle all'uovo , scampi, datterino arancione
 |Paccheri al ragù di gallinella di mare e scorfano |15| paccheri, gallinella, scorfano, salsa di pomodoro, olio E.V.O., prezzemolo
 |Calamarata  ai gamberoni rossi di Sicilia  |16|Calamarata pasta fresca, gamberoni rossi Sicilia , olio E.V.O. , prezzemolo
 |Zuppa di pesce |28| rana pescatrice, coccio, scorfano , polipetti, seppie, calamari, cozze, vongole, mazzancolle, gamberoni, scampi, gamberi bianchi
-Tagliatelle all'uovo ai gamberi rossi Sicilia|18| Tagliatelle all'uovo, gamberi rossi Sicilia, pomodorino giallo e rosso, olio E.V.O., prezzemolo
+||Tagliatelle all'uovo ai gamberi rossi Sicilia|18| Tagliatelle all'uovo, gamberi rossi Sicilia, pomodorino giallo e rosso, olio E.V.O., prezzemolo

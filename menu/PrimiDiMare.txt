@@ -1,6 +1,6 @@
 Calamarata vongole, gamberetti,zucchine |16|Calamarata , gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo, olio E.V.O.
-Tonnarelli  all'Astice|18| Tonnarelli pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
+Tonnarelli  all'Astice|20| Tonnarelli pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle all'uovo con pesce spada|16|pasta fresca, pesce spada , pinoli tostati ,pomodorino giallo,prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |16|gnocchetti di patate , cozze, vongole veraci,gamberetti, calamari, seppie ,pomodorini, prezzemolo e olio E.V.O
@@ -18,7 +18,7 @@ Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Tagliatelle dello chef |16| tagliatelle di pasta fresca, mazzancolle Sicilia, pesto, pomodorino giallo , olio E.V.O. , prezzemolo
 |Calamarata dello chef |15| calamarata pasta fresca, vongole veraci, gamberetti, rucola, limone, olio E.V.O.
 |Calamarata allo scoglio|15| calamarata pasta fresca , cozze , vongole, calamaretti, gamberetti, olio E.V.O., prezzemolo
-Tagliatelle  agli scampi |16| Tagliatelle all'uovo , scampi, datterino arancione , olio E.V.O. , prezzemolo
+|Tagliatelle  agli scampi |16| Tagliatelle all'uovo , scampi, datterino arancione , olio E.V.O. , prezzemolo
 |Fusilli al ragù di coccio|15| Fusilli   , coccio, pomodorino ciliegino, olio E.V.O., prezzemolo
 |Calamarata  con ricciola |16| Paccheri Rummo, ricciola, pomoodorino giallo, alloro, cipolla, aglio, pinoli tostati, prezzemolo, basilico, olio E.V.O.
 |Bavette al nero di seppia |16| Bavette , seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo

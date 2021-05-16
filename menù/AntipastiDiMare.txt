@@ -1,7 +1,0 @@
-Sautè di Cozze|12|cozze, aglio, prezzemolo e olio E.V.O      |\\
-Sautè di Cozze e Vongole|16|cozze, vongole, aglio, prezzemolo e olio E.V.O.
-Antipasto di mare |13|polpo marocco, calamari, seppie, cozze, vongole e olio E.V.O.
-Insalata di Polpo|12|polpo marocco, prezzemolo, olio E.V.O.
-|Sautè di vongole |15| vongole veraci, olio E.V.O., aglio , prezzemolo 
-Insalatona di mare|11| insalata verde polpo marocco, calamari, seppie, cozze, vongole e olio E.V.O
-|Antipasto Costadoro|22| piatto composto di varie portate 

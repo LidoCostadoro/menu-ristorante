@@ -1,4 +1,4 @@
-Cicoria|5|cicoria saltata
+|Cicoria|5|cicoria saltata
 Patatine fritte|5|
 Insalatina verde|4|
 Insalatina mista|4.50|

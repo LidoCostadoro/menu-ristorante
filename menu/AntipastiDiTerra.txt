@@ -2,6 +2,6 @@ Mozzarella di Bufala D.O.P.|10|250 gr
 Caprese|10|mozzarella di Bufala D.O.P, pomodoro, olio E.V.O.
 Prosciutto e Mozzarella|11|prosciutto di Parma e mozzarella di bufala D.O.P.
 Prosciutto e Melone|10|prosciutto di Parma e melone di stagione
-Bresaola grana e rughetta |11| bresaola rigamonti grana rughetta 
+|Bresaola grana e rughetta |11| bresaola rigamonti grana rughetta 
 |Parmigiana di melanzane |7| melanzane fritte pomodoro mozzarella parmigiano olio E.V.O. basilico
-Fresella caprese |10| fresella pomodoro mozzarella olio sale basilico 
+|Fresella caprese |10| fresella pomodoro mozzarella olio sale basilico 

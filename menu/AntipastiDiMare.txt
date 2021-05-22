@@ -1,9 +1,10 @@
-Sautè cozze e vongole |15| cozze, vongole veraci, aglio, olio E.V.O. prezzemolo
+Sautè cozze e vongole |16| cozze, vongole veraci, aglio, olio E.V.O. prezzemolo
 Sautè cozze |10| cozze , aglio, olio E.V.O., prezzemolo
 Antipasto di mare |11| polpo marocco, calamari, seppie, cozze, vongole , olio E.V.O., sale , limone, prezzemolo
 Insalatona di mare |11| insalata verde, polpo marocco, calamari, seppie, cozze, vongole, olio E.V.O.,sale, limone, prezzemolo 
-Gamberi rosa di Mazzara alla catalana |11| gambero rosa di Mazzara, pachino, cipolla rossa, misticanza , aceto, olio E.V.O., sale
-Polpo grigliato con salsa peperoni |11| polpo marocco, peperoni, olio E.V.O., sale
-Involtini melanzane alla parmigiana con spada |11| pesce spada , melanzane, pomodoro, olio E.V.O., sale , basilico
-Farro pesto genovese con gamberi , seppie e cozze |11| farro, pesto di basilico, gamberi, seppie, cozze , olio E.V.O., sale 
-Pesce alla nutella |56| pesce , nutella
+|Gamberi rosa di Mazzara alla catalana |11| gambero rosa di Mazzara, pachino, cipolla rossa, misticanza , aceto, olio E.V.O., sale
+|Polpo grigliato con salsa peperoni |11| polpo marocco, peperoni, olio E.V.O., sale
+|Involtini melanzane alla parmigiana con spada |11| pesce spada , melanzane, pomodoro, olio E.V.O., sale , basilico
+Gamberone rosso scottato su friarielli e pancotto |13| gamberone rosso, friarielli saltati, pane, olio E.V.O., sale 
+Tentacolo di polpo in guazzetto |13| polpo marocco pomodoro olio sale olio E.V.O.
+Gamberone marinato al timo con lardo di colonnato |13| gamberone, timo, lardo di colonnato, olio, sale olio E.V.O.

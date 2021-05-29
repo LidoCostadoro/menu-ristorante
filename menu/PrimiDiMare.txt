@@ -10,10 +10,10 @@ Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco, scampi, pomodorino giallo, aglio ,olio, sale, prezzemol
 |Gnocchetti cozze e gamberetti |13| gnocchetti di patate, cozze, gamberetti, pomodorino, aglio ,olio E.V.O., prezzemolo
-Tonnarelli allo scoglio|15| tonnarelli pasta fresca  ,cozze, vongole, calamari, gamberi, seppie,scampo,polpo, olio E.V.O., prezzemolo
+Spaghettone  allo scoglio|15| spaghettone  pasta fresca  ,cozze, vongole, calamari, gamberi, seppie,scampo,polpo, olio E.V.O., prezzemolo
 |Gnocchetti rosa vongole e gamberi |15| gnocchetti di patata viola ,vongole veraci, gamberi, pomodorino giallo, olio E.V.O., prezzemolo
 |Gnocchetti di rapa rossa vongole gamberi e limone |14| gnocchetti di rapa rossa, vongole veraci, gamberi, limone,olio E.V.O. ,prezzemolo 
-Scialatielli al basilico alici e pecorino|13| scialatiello pasta fresca verde al basilico, alici fresche, pecorino, olio E.V.O., sale 
+|Scialatielli al basilico alici e pecorino|13| scialatiello pasta fresca verde al basilico, alici fresche, pecorino, olio E.V.O., sale 
 |Linguine  agli scampi |16|Linguine De Cecco, , scampi, pomodorino giallo, aglio, olio , basilico , prezzemolo
 |Tagliatelle dello chef |16| tagliatelle di pasta fresca, mazzancolle Sicilia, pesto, pomodorino giallo , olio E.V.O. , prezzemolo
 |Calamarata dello chef |15| calamarata pasta fresca, vongole veraci, gamberetti, rucola, limone, olio E.V.O.
@@ -23,10 +23,11 @@ Scialatielli al basilico alici e pecorino|13| scialatiello pasta fresca verde al
 |Calamarata  con ricciola |16| Paccheri Rummo, ricciola, pomoodorino giallo, alloro, cipolla, aglio, pinoli tostati, prezzemolo, basilico, olio E.V.O.
 |Bavette al nero di seppia |16| Bavette , seppia fresca, nero di seppia, aglio, olio E.V.O. , prezzemolo
 |Paccheri allo scoglio |16| Paccheri Rummo, cozze, vongole, gamberetti, seppie, olio E.V.O., prezzemolo
-|Paccheri  alla sperlongana |13| Paccheri , alici, olive , olio E.V.O., prezzemolo
+Risotto ai mirtilli con gambero rosso |15| riso carnaroli,mirtilli , gambero rosso, vino fragolino , olio E.V.O. sale 
 |Calamarata mare e monti |16| Calamarata , cozze,vongole gamberetti, funghi porcini , pomoodorino giallo e rosso, olio E.V.O., aglio, prezzemolo 
 |Fusilli artigianali con rana pescatrice |15|Fusiili artigianali, rana pescatrice, pomodorino fresco , olio E.V.O., prezzemolo
 |Paccheri al ragù di gallinella di mare e scorfano |15| paccheri, gallinella, scorfano, salsa di pomodoro, olio E.V.O., prezzemolo
 |Calamarata  ai gamberoni rossi di Sicilia  |16|Calamarata pasta fresca, gamberoni rossi Sicilia , olio E.V.O. , prezzemolo
 |Zuppa di pesce |28| rana pescatrice, coccio, scorfano , polipetti, seppie, calamari, cozze, vongole, mazzancolle, gamberoni, scampi, gamberi bianchi
 |Tagliatelle all'uovo ai gamberi rossi Sicilia|18| Tagliatelle all'uovo, gamberi rossi Sicilia, pomodorino giallo e rosso, olio E.V.O., prezzemolo
+Tagliatelle carciofi e calamari |15|tagliatelle pasta fresca carciofi calamari olio E.V.O. sale 

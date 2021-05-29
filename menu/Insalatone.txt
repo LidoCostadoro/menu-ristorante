@@ -1,6 +1,7 @@
 Primavera|8.50|insalata verde, carote, mais, pomodori, olive di Gaeta, mozzarella di bufala D.O.P.
-|Siciliana|8.50|insalata verde, pomodori, prosciutto cotto, provola, mozzarella di bufala D.O.P.
+Siciliana|8.50|insalata verde, pomodori, prosciutto cotto, provola, mozzarella di bufala D.O.P.
 |Vegetariana|8.50|insalata verde, carote, pomodori, cetrioli, peperoni, olive di Gaeta e scaglie di grana Padano
 |Greca|8.50|insalata verde, pomodori, cipolla, peperoni, cetrioli, feta e olive
 Pollo|8.50|insalata verde, carote, yogurt, senape e straccetti di pollo
 Costadoro|8.50|insalata verde, pomodori, tonno e mozzarella di Bufala D.O.P.
+Insalatona di mare |8.50| insalata verde calamari seppie polpo cozze vongole olio E.V.O. sale 

@@ -1,4 +1,4 @@
-|Tiramisu'|5|
+Tiramisu'|4|
 |Panna cotta |4|
 |Cheesecake |5|
 Baba'|4| semplice o crema 
@@ -6,5 +6,5 @@ Sorbetto al limone |3|
 Cannolo siciliano |4|
 |Cassatina siciliana |4|
 |Torta Caprese |4|
-Tortino cuore caldo al cioccolato |4|
+|Tortino cuore caldo al cioccolato |4|
 Semifreddo miele d'acacia e arancia|4|

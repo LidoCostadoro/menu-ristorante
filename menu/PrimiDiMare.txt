@@ -30,5 +30,6 @@ Risotto ai mirtilli con gambero rosso |15| riso carnaroli,mirtilli , gambero ros
 |Calamarata  ai gamberoni rossi di Sicilia  |16|Calamarata pasta fresca, gamberoni rossi Sicilia , olio E.V.O. , prezzemolo
 |Zuppa di pesce |28| rana pescatrice, coccio, scorfano , polipetti, seppie, calamari, cozze, vongole, mazzancolle, gamberoni, scampi, gamberi bianchi
 |Tagliatelle all'uovo ai gamberi rossi Sicilia|18| Tagliatelle all'uovo, gamberi rossi Sicilia, pomodorino giallo e rosso, olio E.V.O., prezzemolo
-Tagliatelle carciofi e calamari |15|tagliatelle pasta fresca carciofi calamari olio E.V.O. sale 
+|Tagliatelle carciofi e calamari |15|tagliatelle pasta fresca carciofi calamari olio E.V.O. sale 
 Risotto alla pescatora |15| cozze, vongole, calamari, gamberi, seppie , olio E.V.O., sale prezzemolo
+Gnocchi viola vongole e porcini |15| Gnocchetti viola , vongole, funghi porcini , pachino, olio E.V.O., sale 

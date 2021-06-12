@@ -4,4 +4,4 @@ Siciliana|8.50|insalata verde, pomodori, prosciutto cotto, provola, mozzarella d
 Greca|8.50|insalata verde, pomodori, cipolla, peperoni, cetrioli, feta e olive
 Pollo|8.50|insalata verde, carote, yogurt, senape e straccetti di pollo
 Costadoro|8.50|insalata verde, pomodori, tonno e mozzarella di Bufala D.O.P.
-Insalatona di mare |8.50| insalata verde calamari seppie polpo cozze vongole olio E.V.O. sale 
+|Insalatona di mare |8.50| insalata verde calamari seppie polpo cozze vongole olio E.V.O. sale 

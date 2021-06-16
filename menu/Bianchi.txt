@@ -1,7 +1,9 @@
-Vermentino|18|75 cl
-Ribolla Gialla|18|75 cl
-Falanghina Borgo Tufato|18|75 cl
+Vermentino|22|75 cl
+Ribolla Gialla|22|75 cl
+Falanghina Borgo Tufato|20|75 cl
 Pecorino|18|75 cl
 Falanghina Villa Matilde|10|37,5 cl
 Vermentino di Gallura|10|37,5 cl
 Prosecco|14|75 cl
+Grillo|18| 75 cl 
+Satrico|20| 75 cl

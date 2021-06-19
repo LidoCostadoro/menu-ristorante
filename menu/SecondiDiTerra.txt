@@ -3,5 +3,5 @@
 Hamburger e patatine|10|hamburger di angus da 200gr con patatine fritte*
 Cotoletta e patatine|10|cotoletta di pollo e patatine fritte*
 Petto di pollo e patatine|10|petto di pollo grigliato con patatine fritte*
-|Tagliata di manzo arrosto|16| Tagliata di manzo, rucola , grana , pachino , olio E.V.O
+Tagliata di manzo arrosto|16| Tagliata di manzo, rucola , grana , pachino , olio E.V.O
 Wrustel e patatine |10| wrustel e patatine 

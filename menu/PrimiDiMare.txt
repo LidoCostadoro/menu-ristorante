@@ -10,7 +10,7 @@ Spaghetti alle Vongole|15|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco, scampi, pomodorino giallo, aglio ,olio, sale, prezzemol
 |Gnocchetti cozze e gamberetti |13| gnocchetti di patate, cozze, gamberetti, pomodorino, aglio ,olio E.V.O., prezzemolo
-Spaghettone  allo scoglio|16| spaghettone  pasta fresca  ,cozze, vongole, calamari, gamberi, seppie,scampo,polpo, olio E.V.O., prezzemolo
+Tonnarello allo scoglio |16| spaghettone  pasta fresca  ,cozze, vongole, calamari, gamberi, seppie,scampo,polpo, olio E.V.O., prezzemolo
 |Gnocchetti rosa vongole e gamberi |15| gnocchetti di patata viola ,vongole veraci, gamberi, pomodorino giallo, olio E.V.O., prezzemolo
 |Gnocchetti di rapa rossa vongole gamberi e limone |14| gnocchetti di rapa rossa, vongole veraci, gamberi, limone,olio E.V.O. ,prezzemolo 
 |Scialatielli al basilico alici e pecorino|13| scialatiello pasta fresca verde al basilico, alici fresche, pecorino, olio E.V.O., sale 
@@ -33,4 +33,5 @@ Risotto ai mirtilli con gambero rosso |16| riso carnaroli,mirtilli , gambero ros
 |Tagliatelle carciofi e calamari |15|tagliatelle pasta fresca carciofi calamari olio E.V.O. sale 
 |Risotto alla pescatora |15| cozze, vongole, calamari, gamberi, seppie , olio E.V.O., sale prezzemolo
 |Gnocchi viola vongole e porcini |15| Gnocchetti viola , vongole, funghi porcini , pachino, olio E.V.O., sale 
+Scialatielli verdi spada e melanzane |15| scialatielli al basilico pasta fresca, pesce spada, melanzane, pomodoro, basilico, olio E.V.O., sale
 Scialatielli verdi con spada e melanzane |15| scialtielli di basilico pasta fresca, pesce spada , melanzane, pomodoro , basilico, olio E.V.O

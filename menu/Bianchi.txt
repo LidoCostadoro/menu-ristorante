@@ -7,3 +7,5 @@ Vermentino di Gallura|10|37,5 cl
 Prosecco|14|75 cl
 Grillo|18| 75 cl 
 Satrico|20| 75 cl
+Muller Thurgau |22| 75 cl
+Prosecco Val D' oca |16| 75 cl

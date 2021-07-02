@@ -2,11 +2,12 @@ Tiramisu'|5|
 |Panna cotta |5|
 |Cheesecake |5|
 Baba'|5| semplice o crema 
-Sorbetto al limone |3|
+Sorbetto al limone |4|
 Cannolo siciliano |5|
 |Cassatina siciliana |5|
 Millefoglie crema chantilly frutti di bosco|5|
 |Tortino cuore caldo al cioccolato |5|
 |Semifreddo miele d'acacia e arancia|5|
 Semifreddo all' amaretto|5|
-cheesecake al mojito |5| biscotti digestive, ricotta, mascarpone, rum, menta, lime, panna
+|cheesecake al mojito |5| biscotti digestive, ricotta, mascarpone, rum, menta, lime, panna
+Semifreddo melanzane e pistacchio |5|

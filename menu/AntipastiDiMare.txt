@@ -13,5 +13,7 @@ Farro al pesto con seppia gamberi e cozze |13| farro perlato, pesto di basilico,
 |Polpettine di ricciola alle erbe aromatiche , arancio e salsa di senape con patatine chips|10| ricciola, erbe aromatiche, arancio, senape, patate, olio E.V.O
 Gamberoni croccanti con aceto balsamico e pasta kataifi greca|14| gamberone rosso SAicilia, pasta kataifigreca, aceto balsamico
 |Tortino di alici con scarola saltata, olive e acciughe sott'olio |13| alici fresche, scarola, olive, olio EV.O., ACCIUGHE
-Salmone marinato alle erbe aromatiche con bufala e citronette |14| salmone fresco, erba cipollina, maggiorana , rosmarino, basilico, mozzarella bufala, citronette, olio E.V.O.
-Polpo e patate grigliato caldo |!4| polpo marocco, patate, olio E.V.O., prezzemolo
+|Salmone marinato alle erbe aromatiche con bufala e citronette |14| salmone fresco, erba cipollina, maggiorana , rosmarino, basilico, mozzarella bufala, citronette, olio E.V.O.
+|Polpo e patate grigliato caldo |!4| polpo marocco, patate, olio E.V.O., prezzemolo
+Capesante brasate su salsa senape e arancio |14| capesante senape, olio E.V.O., arancio
+Insalata di seppioline con fagioli cannellini |14| seppioline, fagioli cannellini, olio E.V.O, sedano, aceto

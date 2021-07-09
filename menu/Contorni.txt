@@ -4,4 +4,4 @@ Insalatina verde|4|
 Insalatina mista|4.50|
 Insalata di pomodori|4.50|
 Piatto dell'orto|6|melanzane, zucchine e peperoni grigliati
-Fagolini al burro |4.50|
+|Fagolini al burro |4.50|

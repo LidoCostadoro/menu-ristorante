@@ -2,5 +2,5 @@ Fragole|4.5|
 Ananas|4|
 Melone|4|
 |Macedonia|4.5|frutta di stagione
-Anguria|4|
+Anguria mantovana |4.5|
 Tagliata di frutta|8.5|ananas, melone, anguria e frutta di stagione tagliati in pezzettoni

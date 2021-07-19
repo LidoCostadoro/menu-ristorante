@@ -33,9 +33,9 @@ Risotto alla pescatora |15| cozze, vongole, calamari, gamberi, seppie , olio E.V
 |Gnocchi viola vongole e porcini |15| Gnocchetti viola , vongole, funghi porcini , pachino, olio E.V.O., sale 
 |Scialatielli verdi con ricciola , zeste di lime e menta |15| scialatielli al basilico fresco, ricciola, lime, menta, basilico, sale
 Panciotti capesante e gamberi |15| Panciotti ripieni capesante e gamberi, pachino, olio E.V.O., basilico, sale 
-Paccheri gambero rosso e pesto di pistacchio |16| Paccheri Rummo, gambero rosso, pesto di pistacchio, olio E.V.O
+|Paccheri gambero rosso e pesto di pistacchio |16| Paccheri Rummo, gambero rosso, pesto di pistacchio, olio E.V.O
 Risotto alla crema di scampi |14| riso carnaroli, crema di scampi, panna , olio E.V.O, prezzemolo
-Scialatielli verdi scampi in bianco e crema fiori di zucca |16| scialatielli freschi al basilico, scampi, crema dfi zucca 
+|Scialatielli verdi scampi in bianco e crema fiori di zucca |16| scialatielli freschi al basilico, scampi, crema dfi zucca 
 
 
 

@@ -1,6 +1,6 @@
 |Calamarata vongole, gamberetti,zucchine |16|Calamarata , gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo, olio E.V.O.
-|Tagliolini  all'Astice|20| Tagliolini pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
+|Tagliolini  all'Astice|25| Tagliolini pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle all'uovo con pesce spada|16|pasta fresca, pesce spada , pinoli tostati ,pomodorino giallo,prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |16|gnocchetti di patate , cozze, vongole veraci,gamberetti, calamari, seppie ,pomodorini, prezzemolo e olio E.V.O

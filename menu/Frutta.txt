@@ -1,4 +1,4 @@
-Fragole|4.5|
+|Fragole|4.5|
 Ananas|4|
 Melone|4|
 |Macedonia|4.5|frutta di stagione

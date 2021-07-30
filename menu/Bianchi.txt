@@ -5,8 +5,8 @@ Riflessi frizzante |18|75 cl  "cantina Sant' Andrea -Circeo D.O.C."
 Falanghina Villa Matilde|10|37,5 cl
 Vermentino di Gallura Mancini |10|37,5 cl
 Prosecco Bollè|14|75 cl
-Grillo|18| 75 cl "Principe di Granatey" D.O.C.- Sicilia Bio
+|Grillo|18| 75 cl "Principe di Granatey" D.O.C.- Sicilia Bio
 Satrico|20| 75 cl " Casal del Giglio "
-Muller Thurgau |22| 75 cl  "Trentino D.O.C.- Mezzacorona "
+|Muller Thurgau |22| 75 cl  "Trentino D.O.C.- Mezzacorona "
 Prosecco Val D' oca |16| 75 cl  
 Ca' del Bosco |50| 75 cl   "Francicorta"

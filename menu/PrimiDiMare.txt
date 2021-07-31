@@ -10,7 +10,7 @@ Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco, scampi, pomodorino giallo, aglio ,olio, sale, prezzemol
 |Gnocchetti cozze e gamberetti |13| gnocchetti di patate, cozze, gamberetti, pomodorino, aglio ,olio E.V.O., prezzemolo
-Tonnarello allo scoglio |16| spaghettone  pasta fresca  ,cozze, vongole, calamari, gamberi, seppie,scampo,polpo, olio E.V.O., prezzemolo
+|Tonnarello allo scoglio |16| spaghettone  pasta fresca  ,cozze, vongole, calamari, gamberi, seppie,scampo,polpo, olio E.V.O., prezzemolo
 |Gnocchetti rosa vongole e gamberi |15| gnocchetti di patata viola ,vongole veraci, gamberi, pomodorino giallo, olio E.V.O., prezzemolo
 |Gnocchetti di rapa rossa vongole gamberi e limone |14| gnocchetti di rapa rossa, vongole veraci, gamberi, limone,olio E.V.O. ,prezzemolo 
 |Scialatielli al basilico alici e pecorino|13| scialatiello pasta fresca verde al basilico, alici fresche, pecorino, olio E.V.O., sale 
@@ -34,8 +34,9 @@ Risotto alla pescatora |15| cozze, vongole, calamari, gamberi, seppie , olio E.V
 |Scialatielli verdi con ricciola , zeste di lime e menta |15| scialatielli al basilico fresco, ricciola, lime, menta, basilico, sale
 Panciotti capesante e gamberi |15| Panciotti ripieni capesante e gamberi, pachino, olio E.V.O., basilico, sale 
 |Paccheri gambero rosso e pesto di pistacchio |16| Paccheri Rummo, gambero rosso, pesto di pistacchio, olio E.V.O
-Risotto alla crema di scampi |14| riso carnaroli, crema di scampi, panna , olio E.V.O, prezzemolo
+Risotto alla crema di scampi |14| riso carnaroli, crema di scampi, pomodorino, brandy, brodo di pesce, olio E.V.O, prezzemolo
 |Scialatielli verdi scampi in bianco e crema fiori di zucca |16| scialatielli freschi al basilico, scampi, crema di zucca , alici sott'olio
+Tonnarello con gambero rosso , pachino e pesto di rucola |16| tonnarello fresco , gambero rosso, pomodorino , pesto di rucola, olio E.V.O.,prezzemolo
 
 
 

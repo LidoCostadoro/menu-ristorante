@@ -11,7 +11,7 @@ Antipasto di mare |13| polpo marocco, calamari, seppie, cozze, vongole , olio E.
 |Polpette alla Sperlongana |10|  uva passa pinoli alici olio E.V.O. sale
 |Farro al pesto con seppia gamberi e cozze |13| farro perlato, pesto di basilico, gamberi, seppia, cozze , olio E.V.O. sale
 |Polpettine di ricciola alle erbe aromatiche , arancio e salsa di senape con patatine chips|10| ricciola, erbe aromatiche, arancio, senape, patate, olio E.V.O
-Gamberoni croccanti con aceto balsamico e pasta kataifi greca|14| gamberone rosso SAicilia, pasta kataifigreca, aceto balsamico
+|Gamberoni croccanti con aceto balsamico e pasta kataifi greca|14| gamberone rosso SAicilia, pasta kataifigreca, aceto balsamico
 |Tortino di alici con scarola saltata, olive e acciughe sott'olio |13| alici fresche, scarola, olive, olio EV.O., ACCIUGHE
 |Salmone marinato alle erbe aromatiche con bufala e citronette |14| salmone fresco, erba cipollina, maggiorana , rosmarino, basilico, mozzarella bufala, citronette, olio E.V.O.
 |Polpo e patate grigliato caldo |!4| polpo marocco, patate, olio E.V.O., prezzemolo
@@ -21,5 +21,6 @@ Baccalà al limone con rucola e scaglie di mandorle |12| baccalà bollito cn sal
 Calamaro grigliato radicchio , arancio e granella pistacchio|13| calamaro marocco grigliato, radicchio trevigiano, arancio a spicchio, granella di pistacchio, olio E.V.O
 |Tentacolo di polpo alla luciana|13| tentacolo di polpo marocco, pachino, olive , capperi, olio E.V.O
 |Gran mix fritti|14|1 gambero croccante con pasta kataifi, spiedino di capesante-gambero-seppiolina, filetto persico, calamari fritti
-Antipasto Costadoro |20| mix di antipasti 
+|Antipasto Costadoro |20| mix di antipasti 
 alici marinate |10| alici fresche , aceto, prezzemolo, olio E.V.O, leggero peperoncino
+Seppioline cotte al vapore con pomodori secchi, rucola e grana |13| seppioline, pomodori secchi, rucola, grana, olio E.V.O., sale

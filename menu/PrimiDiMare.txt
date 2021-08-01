@@ -1,11 +1,11 @@
 |Calamarata vongole, gamberetti,zucchine |16|Calamarata , gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo, olio E.V.O.
-Tagliolini  all'Astice|25| Tagliolini pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
+|Tagliolini  all'Astice|25| Tagliolini pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle all'uovo con pesce spada|16|pasta fresca, pesce spada , pinoli tostati ,pomodorino giallo,prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |16|gnocchetti di patate , cozze, vongole veraci,gamberetti, calamari, seppie ,pomodorini, prezzemolo e olio E.V.O
 |Gnocchetti ai frutti di mare|16|Gnocchetti di patate ,cozze, vongole veraci , gamberetti, ciliegino, prezzemolo, olio E.V.O.
-|Risotto alla pescatora|13|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
+Risotto alla pescatora|13|riso carnaroli, calamari, seppie, polpo, gamberi, cozze, vongole veraci, prezzemolo e olio E.V.O.
 |Calamarata  alla nostromo |15|calamarata , cozze, vongole, melanzane fritte, pomodorino, olio E.V.O., prezzemolo
 |Gnocchetti vongole rucola e limone |14| gnocchetti di patate, vongole veraci, rucola , limone, olio E.V.O.
 |Tonnarelli agli scampi crudo e cotto |16| tonnarello fesco, scampi, pomodorino giallo, aglio ,olio, sale, prezzemol
@@ -34,7 +34,7 @@ Risotto alla pescatora |15| cozze, vongole, calamari, gamberi, seppie , olio E.V
 |Scialatielli verdi con ricciola , zeste di lime e menta |15| scialatielli al basilico fresco, ricciola, lime, menta, basilico, sale
 Panciotti capesante e gamberi |15| Panciotti ripieni capesante e gamberi, pachino, olio E.V.O., basilico, sale 
 |Paccheri gambero rosso e pesto di pistacchio |16| Paccheri Rummo, gambero rosso, pesto di pistacchio, olio E.V.O
-Risotto alla crema di scampi |14| riso carnaroli, crema di scampi, pomodorino, brandy, brodo di pesce, olio E.V.O, prezzemolo
+|Risotto alla crema di scampi |14| riso carnaroli, crema di scampi, pomodorino, brandy, brodo di pesce, olio E.V.O, prezzemolo
 |Scialatielli verdi scampi in bianco e crema fiori di zucca |16| scialatielli freschi al basilico, scampi, crema di zucca , alici sott'olio
 Tonnarello con gambero rosso , pachino e pesto di rucola |16| tonnarello fresco , gambero rosso, pomodorino , pesto di rucola, olio E.V.O.,prezzemolo
 

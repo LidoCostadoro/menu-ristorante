@@ -1,6 +1,6 @@
 |Calamarata vongole, gamberetti,zucchine |16|Calamarata , gambero rosa siciliano, zucchine, vongole veraci, prezzemolo e olio E.V.O.
 |Paccheri allo scorfano|11|paccheri rummo, scorfano,ciliegino,prezzemolo, olio E.V.O.
-Tagliolini  all'Astice|25| Tagliolini pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
+|Tagliolini  all'Astice|25| Tagliolini pasta fresca , astice fresco, pomodorino, prezzemolo e olio E.V.O.
 |Tagliatelle all'uovo con pesce spada|16|pasta fresca, pesce spada , pinoli tostati ,pomodorino giallo,prezzemolo, olio E.V.O.
 Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e olio E.V.O.
 |Gnocchetti al profumo di mare |16|gnocchetti di patate , cozze, vongole veraci,gamberetti, calamari, seppie ,pomodorini, prezzemolo e olio E.V.O
@@ -38,6 +38,7 @@ Panciotti capesante e gamberi |15| Panciotti ripieni capesante e gamberi, pachin
 |Scialatielli verdi scampi in bianco e crema fiori di zucca |16| scialatielli freschi al basilico, scampi, crema di zucca , alici sott'olio
 Tonnarello con gambero rosso , pachino e pesto di rucola |16| tonnarello fresco , gambero rosso, pomodorino , pesto di rucola, olio E.V.O.,prezzemolo
 Scialatiello con crema di crostacei|15| Scialatillo fresco,scampi,gamberi,brodo di pesce,panna,olio E.V.O, prezzemolo
+Tagliolini alla crema di astice |18| tagliolino fresco, crema di astice, olio E.V.O., prezzemolo, sale 
 
 
 

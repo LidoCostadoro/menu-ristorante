@@ -37,7 +37,7 @@ Spaghetti alle Vongole|16|pasta DeCecco, vongole veraci, aglio, prezzemolo e oli
 |Risotto alla crema di scampi |14| riso carnaroli, crema di scampi, pomodorino, brandy, brodo di pesce, olio E.V.O, prezzemolo
 |Scialatielli verdi scampi in bianco e crema fiori di zucca |16| scialatielli freschi al basilico, scampi, crema di zucca , alici sott'olio
 |Tonnarello con gambero rosso , pachino e pesto di rucola |16| tonnarello fresco , gambero rosso, pomodorino , pesto di rucola, olio E.V.O.,prezzemolo
-Scialatiello con crema di crostacei|15| Scialatillo fresco,scampi,gamberi,brodo di pesce,panna,olio E.V.O, prezzemolo
+Scialatiello con crema di crostacei|15| Scialatiello fresco,scampi,gamberi,brodo di pesce,panna,olio E.V.O, prezzemolo
 |Tagliolini alla crema di astice |18| tagliolino fresco, crema di astice, olio E.V.O., prezzemolo, sale 
 Tonnarello alla marinara |16| calamari, polpo, seppie, gamberi, cozze , vongole, olio E.V.O., prezzemolo
 Mezze maniche con calamari e limone ||15| mezze maniche, calamari, limone , olio E.V.O.

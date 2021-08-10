@@ -2,7 +2,7 @@ Frittura calamari e gamberi|16|gamberi rosa siciliani**, calamari del mediterran
 Calamaro arrosto|15|calamaro del mediterraneo**, erbe aromatiche e con olio E.V.O.
 Grigliata mista|22|calamaro mediterraneo**, gamberoni argentini**,trancio tonno fresco o pesce spada ,  olio E.V.O., prezzemolo
 |Grigliata Imperiale|22|gambero rosso di sicilia**,  mazzancolle**,scampi**
-Tagliata di tonno scottato con cipolla di tropea|16|trancio di tonno rosso fresco, cipolla di Tropea, cicoria saltata, glassa di aceto balsamico e olio E.V.O.
+Trancio di tonno scottato con cipolla di tropea|16|trancio di tonno rosso fresco, cipolla di Tropea, cicoria saltata, glassa di aceto balsamico e olio E.V.O.
 |Trancio di tonno fresco alla cacciatora |16|trancio di tonno fresco, erbe aromatiche e olio E.V.O.
 |Alici fritte |11|alici fresche, olio di girasole, sale 
 |Frittura di paranza |11|
@@ -19,7 +19,7 @@ Frittura di calamari |16| calamari del meditterraneo**, olio di arachidi
 |Orata al forno con patate |18|
 |Spigola al forno con patate  |18|
 |Pescatrice alla catalana |18| pescatrice scottata, fagiolini al burro , pachino, cipolla , sale olio E.V.O.
-|Tagliata di tonno fresco alla griglia con rucola |15| tonno fresco , rucola, olio E.V.O., prezzemolo, sale
-|Trancio di pesce spada al pistacchio |15| trancio di spada, pistacchio , olio E.V.O., prezzemolo
+|Trancio di tonno fresco alla griglia con rucola |15| tonno fresco , rucola, olio E.V.O., prezzemolo, sal
+Trancio di pesce spada alle erbe aromaatiche e lime |15| trancio di spada, erbe aromatiche , olio E.V.O., prezzemolo, lime
 alici fritte |11|
 Frittura mista |16| calamari, gamberi, alici, calamaretti

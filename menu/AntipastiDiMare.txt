@@ -1,5 +1,5 @@
 Soutè cozze e vongole |16| cozze, vongole veraci, aglio, olio E.V.O. prezzemolo
-Soutè cozze |14| cozze , aglio, olio E.V.O., prezzemolo
+Soutè cozze |13| cozze , aglio, olio E.V.O., prezzemolo
 Antipasto di mare |13| polpo marocco, calamari, seppie, cozze, vongole , olio E.V.O., sale , limone, prezzemolo
 |Insalatona di mare |11| insalata verde, polpo marocco, calamari, seppie, cozze, vongole, olio E.V.O.,sale, limone, prezzemolo 
 |Gamberi rosa di Mazzara alla catalana |13| gambero rosa di Mazzara, pachino, cipolla rossa, misticanza , aceto, olio E.V.O., sale
@@ -22,6 +22,6 @@ Calamaro grigliato radicchio , arancio e granella pistacchio|13| calamaro marocc
 |Tentacolo di polpo alla luciana|13| tentacolo di polpo marocco, pachino, olive , capperi, olio E.V.O
 |Gran mix fritti|14|1 gambero croccante con pasta kataifi, spiedino di capesante-gambero-seppiolina, filetto persico, calamari fritti
 |Antipasto Costadoro |20| mix di antipasti 
-alici marinate |10| alici fresche , aceto, prezzemolo, olio E.V.O, leggero peperoncino
+alici marinate con granella di pistacchio |10| alici fresche , aceto, prezzemolo, olio E.V.O, leggero peperoncino, granella pistacchio
 |Seppioline cotte al vapore con pomodori secchi, rucola e grana |13| seppioline, pomodori secchi, rucola, grana, olio E.V.O., sale
 Insalata di polpo |13| polpo marocco, limone, olio E.V.O., sale , prezzemolo
